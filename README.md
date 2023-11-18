@@ -22,3 +22,4 @@ This is a call center dashboard created with data from October 2020. It has over
 - the reason for calls was billing questions by 23K out of a total of 33K
 - the sentiments of the client were negative by 11.1K which needs to be improved as soon as possible to not cause client loss
 - Texas, California, and Florida had the highest states of number of calls 
+![Dashboard callcenter](https://github.com/yasmin203/Call-center-dashboard/blob/main/call%20center%20dashboard.png)
